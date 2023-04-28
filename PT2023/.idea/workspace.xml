@@ -4,24 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03dd2988-b8f8-4109-8054-3567d04cb712" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/PT2023_30423_Vaida_Diana_Laura_Assignment_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ro/tuc/AppTest.java" afterDir="false" />
+    <list default="true" id="03dd2988-b8f8-4109-8054-3567d04cb712" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Scheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2ObtXnDqjFV9kNzUy0hpXtVVj80" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,7 +54,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/PT2023_30423_Vaida_Diana_Laura_Assignment_2/PT2023&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,8 +79,55 @@
       <workItem from="1682011930679" duration="3268000" />
       <workItem from="1682062586131" duration="1444000" />
       <workItem from="1682068027450" duration="951000" />
-      <workItem from="1682069162708" duration="920000" />
+      <workItem from="1682069162708" duration="1830000" />
+      <workItem from="1682072191709" duration="249000" />
+      <workItem from="1682073139303" duration="462000" />
+      <workItem from="1682073691899" duration="291000" />
+      <workItem from="1682074100385" duration="111000" />
+      <workItem from="1682074826175" duration="214000" />
+      <workItem from="1682085278458" duration="818000" />
+      <workItem from="1682095600242" duration="176000" />
+      <workItem from="1682169464485" duration="799000" />
+      <workItem from="1682170305727" duration="86000" />
+      <workItem from="1682170764215" duration="969000" />
+      <workItem from="1682171760773" duration="26000" />
+      <workItem from="1682172009959" duration="913000" />
+      <workItem from="1682173000672" duration="473000" />
+      <workItem from="1682173492668" duration="66000" />
+      <workItem from="1682175396557" duration="4215000" />
+      <workItem from="1682181758673" duration="180000" />
+      <workItem from="1682182081134" duration="730000" />
+      <workItem from="1682183840978" duration="3990000" />
+      <workItem from="1682189906804" duration="34000" />
+      <workItem from="1682239243724" duration="256000" />
+      <workItem from="1682239540411" duration="2426000" />
+      <workItem from="1682243008988" duration="5362000" />
+      <workItem from="1682250552416" duration="2698000" />
+      <workItem from="1682263878780" duration="815000" />
+      <workItem from="1682349037735" duration="372000" />
+      <workItem from="1682428519719" duration="4260000" />
+      <workItem from="1682433039575" duration="927000" />
+      <workItem from="1682447200406" duration="2416000" />
+      <workItem from="1682519772194" duration="10160000" />
+      <workItem from="1682532433350" duration="3955000" />
+      <workItem from="1682592119135" duration="12021000" />
+      <workItem from="1682604256960" duration="10726000" />
+      <workItem from="1682615037372" duration="2208000" />
+      <workItem from="1682617283347" duration="6480000" />
+      <workItem from="1682623803111" duration="2684000" />
+      <workItem from="1682626510759" duration="21000" />
+      <workItem from="1682626682083" duration="8027000" />
+      <workItem from="1682635195520" duration="954000" />
+      <workItem from="1682664745298" duration="3738000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1682071699075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682071699075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +143,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
