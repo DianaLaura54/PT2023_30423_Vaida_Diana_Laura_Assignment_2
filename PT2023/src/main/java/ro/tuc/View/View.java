@@ -22,8 +22,8 @@ private JTextField  arrivaltextField2;
     private  JLabel serviceLabel2;
     private JLabel arrivalLabel2;
     private   JButton btn;
-private  JTextField servicetextField2;
-private  JLabel frontLabel;
+    private  JTextField servicetextField2;
+    private  JLabel frontLabel;
     public View()
     {
         this.setResizable(false);
