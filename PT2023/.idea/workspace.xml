@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03dd2988-b8f8-4109-8054-3567d04cb712" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Scheduler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/Model/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/tuc/View/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +109,8 @@
       <workItem from="1682626682083" duration="8027000" />
       <workItem from="1682635195520" duration="954000" />
       <workItem from="1682664745298" duration="3738000" />
+      <workItem from="1682670387184" duration="372000" />
+      <workItem from="1682672927614" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1682071699075</created>
@@ -127,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682071699075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1682670475463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682670475463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

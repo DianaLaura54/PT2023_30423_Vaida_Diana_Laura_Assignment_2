@@ -25,7 +25,7 @@ public class Controller {
         public void actionPerformed(ActionEvent e) {
             try {
                 View2 view2=new View2();
-    nbClients=Integer.parseInt(view.getclientstextField());
+                nbClients=Integer.parseInt(view.getclientstextField());
                 nbQueues=Integer.parseInt(view.getqueuestextField());
                 simulationDuration=Integer.parseInt(view.getsimulationtextField());
                 serviceMax=Integer.parseInt(view.getservicetextField2());
